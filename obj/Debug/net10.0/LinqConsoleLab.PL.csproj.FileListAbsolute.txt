@@ -12,3 +12,4 @@
 /home/vultur3/Desktop/code/dotnet/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.pdb
 /home/vultur3/Desktop/code/dotnet/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.genruntimeconfig.cache
 /home/vultur3/Desktop/code/dotnet/LinqConsoleLab.PL/obj/Debug/net10.0/ref/LinqConsoleLab.PL.dll
+/home/vultur3/Desktop/code/dotnet/LinqConsoleLab.PL/obj/Debug/net10.0/LinqConsoleLab.PL.sourcelink.json
