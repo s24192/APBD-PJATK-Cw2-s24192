@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWmPzXLo7G8=",
+  "success": true,
+  "projectFilePath": "/home/vultur3/Desktop/code/dotnet/LinqConsoleLab.PL/LinqConsoleLab.PL.csproj",
+  "expectedPackageFiles": [
+    "/home/vultur3/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
